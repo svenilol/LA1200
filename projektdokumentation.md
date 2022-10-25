@@ -37,7 +37,10 @@ Unseres Vokabular-Abfrage-Programm soll auf verschiedene Fremdsprachen das Vokab
 
 ### 1.4 Diagramme
 
-tuen da ine njerrrrrrrrri (de PAP)
+<img width="503" alt="image" src="https://user-images.githubusercontent.com/110893098/197728488-b76b5ffb-d778-48da-933d-2cf3b2cbad55.png">
+<img width="529" alt="image" src="https://user-images.githubusercontent.com/110893098/197728635-d099ca26-a1b9-445c-9c1f-05d270202a05.png">
+<img width="571" alt="image" src="https://user-images.githubusercontent.com/110893098/197728814-e05da1d4-91a2-4d72-a429-5b4f8bae1ac8.png">
+<img width="526" alt="image" src="https://user-images.githubusercontent.com/110893098/197728899-2f120593-b29c-46fb-9474-dd47c8cbc363.png">
 
 ## 2 Planen
 
