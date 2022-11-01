@@ -5,7 +5,7 @@ Gruppe Beaver: Bächli Sven, Bytyqi Artur, Hitz Julian, Oesch Jonah, Gilardoni R
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |    25.10.2022   | 0.1   | Gruppenleiter entschieden und Projektdokumentation bearbeitet |
-|       | 0.2     |                                                              |
+|   01.11.2022    | 0.2     |                                                              |
 |       | 0.3   |                                                              |
 
 ## 1 Informieren
