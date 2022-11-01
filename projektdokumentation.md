@@ -30,16 +30,16 @@ Unseres Vokabular-Abfrage-Programm soll auf verschiedene Fremdsprachen das Vokab
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| 2.1  |              |         |                   |
-| 3.1  |              |         |                   |
-| 4.1  |              |         |                   |
-| 5.1  |              |         |                   |
-| 6.1  |              |         |                   |
-| 7.1  |              |         |                   |
-|   |              |         |                   |
+| 1.1  |       Wörter die abgefragt werden       |    Richtiges Wort     |      Wort korrekt nächstes Wort             |
+| 2.1  |     Wählen welche sprache         |     De->En    |     De zu En wird Abgefragt              |
+| 2.2 | Wähle welche Sprache | En-> De | En zu De wird Abgefragt |
+| 3.1  |      Alle wörter fertig abgefragt        |   Punktzahl      |      Sie haben 30von 45 richtig gelöst.             |
+| 4.1  |       Wort fertig eingegeben       |     Nächstes Wort    |       Nicht nochmal das gleiche sondern ein anderes randum von der liste            |
+| 5.1  |    Schwierikeits grad eingeben          |   Leicht      |    Sie haben die Leichten Wörter ausgewählt               |
+| 6.1  |   Ist in der console Programmiert           |   Kann es auch in Windows Forms art Programiert werden      |       Ja wenn man die zeit und dass Wissen dazu hat            |
+| 7.1  |   Sie wählen schwirigkeit speedrun           |   erstes Wort      |     Zeit die runter tickt              |
+|      |              |         |                   |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
