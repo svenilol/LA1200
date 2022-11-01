@@ -31,7 +31,13 @@ Unseres Vokabular-Abfrage-Programm soll auf verschiedene Fremdsprachen das Vokab
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 2.1  |              |         |                   |
+| 3.1  |              |         |                   |
+| 4.1  |              |         |                   |
+| 5.1  |              |         |                   |
+| 6.1  |              |         |                   |
+| 7.1  |              |         |                   |
+|   |              |         |                   |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
