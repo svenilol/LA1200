@@ -53,8 +53,8 @@ Unseres Vokabular-Abfrage-Programm soll auf verschiedene Fremdsprachen das Vokab
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.D  |1.11.2022| Ganze Gruppe|Als ein User möchte ich, dass das Programm mich auf Fremdsprachen abfragt, damit ich auf Grund den Anforderungen richtig unterrichtet werde.|4 * 45|
-| ...  |       |           |              |               |
-
+| 1.E  |  8.11.2022     |   Oesch Jonah        |    Testfälle          |     60 min          |
+| 1.F | bis Projekt ende | Alle der Gruppe | erste Programmieren | 4*45 |
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
@@ -63,7 +63,7 @@ Total:
 
 ## 3 Entscheiden
 
-Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir musten uns entscheiden welch Funktionen wir eibauen und schauen ob man sie in der theorie umsetzten kann sodass es keine komplikationen gebne wird.
 
 ## 4 Realisieren
 
