@@ -6,7 +6,7 @@ Gruppe Beaver: Bächli Sven, Bytyqi Artur, Hitz Julian, Oesch Jonah, Gilardoni R
 | ----- | ------- | ------------------------------------------------------------ |
 |    25.10.2022   | 0.1   | Gruppenleiter entschieden und Projektdokumentation bearbeitet |
 |   01.11.2022    | 0.2   |    Erstes Programmieren und weiter an der Projektdokumentation arbeiten.          |
-|  08.11.2022     | 0.3   |                                                              |
+|  08.11.2022     | 0.3   |   Projektdoku fertigstellen, Code fertigstellen und Testen      |
 
 ## 1 Informieren
 
@@ -36,6 +36,7 @@ Unseres Vokabular-Abfrage-Programm soll auf verschiedene Fremdsprachen das Vokab
 | 3.1  |      Alle wörter fertig abgefragt        |   Punktzahl      |      Sie haben 30von 45 richtig gelöst.             |
 | 4.1  |       Wort fertig eingegeben       |     Nächstes Wort    |       Nicht nochmal das gleiche sondern ein anderes randum von der liste            |
 | 5.1  |    Schwierikeits grad eingeben          |   Leicht      |    Sie haben die Leichten Wörter ausgewählt               |
+|  6.1 |                                        |                |                                                       |
 | 7.1  |   Sie wählen schwirigkeit speedrun           |   erstes Wort      |     Zeit die gemessen wird beste zeit wird am schluss angezeigt             |
 |      |              |         |                   |
 
