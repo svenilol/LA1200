@@ -5,7 +5,7 @@ Gruppe Beaver: Bächli Sven, Bytyqi Artur, Hitz Julian, Oesch Jonah, Gilardoni R
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |    25.10.2022   | 0.1   | Gruppenleiter entschieden und Projektdokumentation bearbeitet |
-|   01.11.2022    | 0.2     |    Erstes Programmieren und weiter an der Projektdokumentation arbeiten.          |
+|   01.11.2022    | 0.2   |    Erstes Programmieren und weiter an der Projektdokumentation arbeiten.          |
 |  08.11.2022     | 0.3   |                                                              |
 
 ## 1 Informieren
@@ -18,7 +18,7 @@ Unseres Vokabular-Abfrage-Programm soll auf verschiedene Fremdsprachen das Vokab
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    | Muss         |   Funktional   | Als ein User möchte ich, dass das Programm mich auf Fremdsprachen abfragt, damit ich auf Grund den Anforderungen richtig unterrichtet werde.  |
+| 1    | Muss  |   Funktional   | Als ein User möchte ich, dass das Programm mich auf Fremdsprachen abfragt, damit ich auf Grund den Anforderungen richtig unterrichtet werde.  |
 | 2  |  Muss               |  Funktional    |       Als ein User möchte ich, dass das Programm mich auf Zwei Sprachen abfragt                            |
 | 3  | Muss  |Funktional|Als ein User möchte ich, dass das Programm mir meine Punktzahl am Schluss zeigt.|
 | 4  |Muss |Funktional|Als ein User möchte ich, dass das Programm nicht die gleichen Wörter wieder benutzt, nachdem man sie richtig gehabt hat|
