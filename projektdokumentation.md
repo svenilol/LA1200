@@ -51,9 +51,15 @@ Unseres Vokabular-Abfrage-Programm soll auf verschiedene Fremdsprachen das Vokab
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.D  |1.11.2022| Ganze Gruppe|Als ein User möchte ich, dass das Programm mich auf Fremdsprachen abfragt, damit ich auf Grund den Anforderungen richtig unterrichtet werde.|4 * 45|
-| 1.E  |  8.11.2022     |   Oesch Jonah        |    Testfälle          |     60 min          |
-| 1.F | bis Projekt ende | Alle der Gruppe | erstes Programmieren | 4*45 |
+|   1.a    |     08.11.22    |    ?    |   Die Fremdsprache einsstellen können            |    30 min     |
+|   1.b    |   08.11.22      |        ?   |    Die Wörter Abfragen, eingebne können   |   90 min |
+|   2.a    |   08.11.22      |     ?   | Entscheiden De -> En oder En -> De              |    30 min      |
+|   3.a    |  08.11.22       |      ?  | Punktzahl anzeigen lassen Counter hinzufügen         |     45 min    |
+|   4.a    |   08.11.22      |       ? |  Random Wörter abfragen wenn mann sie richtig ahtte nicht erneut abfragen             |   90 min       |
+|   5.a    |   08.11.22      |  ?      |  Schwirigkeitsgraad einstellar udn verschieden wörter für alle schwirigkeiten             |    90      |
+|   6.a    |   08.11.22      |   ?     |    In Windows Forms-art Programmieren           |     120 min     |
+|   7.a    |   08.11.22      |    ?    |    Speedrunn mode zu den Schwirigkeitsgraden hinzufügen           |    30      |
+|   7.b    |   08.11.22      |     ?   |   Speedrunn ist schwerste Schwirigkeit und wird auf Zeit gestoppt schnellstes ergebniss wird ahngezeigt.            |          |
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
