@@ -1,0 +1,53 @@
+static void Main(string[] args)
+        {
+
+
+            Console.WriteLine("Guten Tag.");
+            Console.WriteLine("Welche Schwierigkeit wollen sie wählen?");
+            Console.WriteLine("Schwer = 1, Mittel = 2, Leicht = 3 ");
+
+            string A = Console.ReadLine();
+            int i = Convert.ToInt32(A);
+
+            switch (i)
+            {
+                case int n when (n == 1):
+                    Console.WriteLine("Sie haben die Schwere Wörterschwirigkeit gewählt");
+                    break;
+                case int n when (n == 2):
+                    Console.WriteLine("Sie haben die Mittlere Wörterschwirigkeit gewählt");
+                    break;
+                case int n when (n == 3):
+                    Console.WriteLine("Sie haben die Einfache Wörterschwirigkeit gewählt");
+                    break;
+                default:
+                    Console.WriteLine("Fehler!");
+                    break;
+
+            }
+
+            Console.WriteLine("Welche Unit Wollen Sie Abfragen?");
+
+            int Unit = Convert.ToInt32(Console.ReadLine);
+
+            if (Unit == 1)
+            {
+                // öfnen der Unit 1 Wörterliste
+            }
+
+            Console.WriteLine("Wie sollen die Wörter abgefragt werden? (De zu En) = 1 Oder (En zu De) = 2.");
+
+            int Sprache = Convert.ToInt32(Console.ReadLine);
+
+            if (Sprache == 1)
+            {
+                //De zu En
+            }
+
+            if (Sprache == 2)
+            {
+                // En zu De
+            }
+
+
+        }
