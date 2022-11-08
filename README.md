@@ -6,7 +6,7 @@ Beaver
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|   25.10    | 0.0.1   | Wir haben eine Gruppe gemacht, Planen und aufgebne verteilt |
+|   25.10    | 0.0.1   | Wir haben eine Gruppe gemacht, Planen und Aufgaben verteilt |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
