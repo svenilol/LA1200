@@ -63,7 +63,7 @@ Total:
 
 ## 3 Entscheiden
 
-Wir musten uns entscheiden welch Funktionen wir eibauen und schauen ob man sie in der theorie umsetzten kann sodass es keine komplikationen gebne wird.
+Wir mussten uns entscheiden welch Funktionen wir einbauen und schauen ob man sie in der Theorie umsetzten kann sodass es keine Komplikationen geben wird.
 
 ## 4 Realisieren
 
