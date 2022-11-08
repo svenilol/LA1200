@@ -74,15 +74,15 @@ Wir mussten uns entscheiden welch Funktionen wir einbauen und schauen ob man sie
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |       30 min         |                   |
-| 1.B  |       |           |  90 min             |                   |
-| 2.A  |       |           |   30 min            |                   |
-| 3.A  |       |           |    45 min           |                   |
-| 4.A  |       |           |    90 min           |                   |
-| 5.A  |       |           |     90 min          |                   |
-| 6.A  |       |           |     120 min          |                   |
-| 7.A  |       |           |      30 min         |                   |
-| 7.B  |       |           |       45 min        |                   |
+| 1.A  |   1.11.22    |           |       30 min         |                   |
+| 1.B  |   1.11.22     |           |  90 min             |                   |
+| 2.A  |  1.11.22      |           |   30 min            |                   |
+| 3.A  |   1.11.22     |           |    45 min           |                   |
+| 4.A  |  8.11.22      |           |    90 min           |                   |
+| 5.A  |  8.11.22     |           |     90 min          |                   |
+| 6.A  |   8.11.22    |           |     120 min          |                   |
+| 7.A  |  8.11.22     |           |      30 min         |                   |
+| 7.B  | 8.11.22      |           |       45 min        |                   |
 
 
 ## 5 Kontrollieren
