@@ -36,7 +36,6 @@ Unseres Vokabular-Abfrage-Programm soll auf verschiedene Fremdsprachen das Vokab
 | 3.1  |      Alle wörter fertig abgefragt        |   Punktzahl      |      Sie haben 30von 45 richtig gelöst.             |
 | 4.1  |       Wort fertig eingegeben       |     Nächstes Wort    |       Nicht nochmal das gleiche sondern ein anderes randum von der liste            |
 | 5.1  |    Schwierikeits grad eingeben          |   Leicht      |    Sie haben die Leichten Wörter ausgewählt               |
-| 6.1  |   Ist in der console Programmiert           |   Kann es auch in Windows Forms art Programiert werden      |  Ja wenn man die zeit und dass Wissen dazu hat   |
 | 7.1  |   Sie wählen schwirigkeit speedrun           |   erstes Wort      |     Zeit die gemessen wird beste zeit wird am schluss angezeigt             |
 |      |              |         |                   |
 
