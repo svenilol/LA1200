@@ -58,23 +58,37 @@ Unseres Vokabular-Abfrage-Programm soll auf verschiedene Fremdsprachen das Vokab
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 |   1.a    |     08.11.22    |   Sven   |   Die Fremdsprache einsstellen können            |    30 min     |
-|   1.b    |   08.11.22      |     Raul |    Die Wörter abfragen, eingeben können   |   90 min |
-|   2.a    |   08.11.22      |     Julian   | Entscheiden De -> En oder En -> De              |    30 min      |
-|   3.a    |  08.11.22       |      Sven  | Punktzahl anzeigen lassen und Counter hinzufügen         |     45 min    |
-|   3.b    |  08.11.22       |     Jonah  | Punkzahl wird am Schluss angezeigt         |     30 min    |
-|   4.a    |   08.11.22      |       Raul, Julian |  Random Wörter abfragen wenn man sie richtig hatte nicht erneut abfragen             |   90 min       |
-|   5.a    |   08.11.22      |  Artur      |  Schwierigkeitsgrad einstellen und verschiedene Wörter für ausgewählte Schwierigkeit benutzen             |    90  min    |
+|   1.d    |   08.11.22      |     Raul |    Die Wörter abfragen |   60 min |
+|   1.e    |   08.11.22      |     Raul |    Die Wörter eingeben können |   45 min |
+|   2.a    |     08.11.22    |   Sven   |   Entscheiden welche Übersetzung man möchte          |    30 min     |
+|   2.b    |   08.11.22      |     Julian   | Entscheiden De -> En              |    15 min      |
+|   2.c    |   08.11.22      |     Julian   | Entscheiden En -> De              |    15 min      |
+|   3.a    |  08.11.22       |      Sven  | Punktzahl anzeigen lassen   |     30 min    |
+|   3.b    |   08.11.22      |     Sven   | Counter hinzufügen             |    30 min      |
+|   3.c    |  08.11.22       |     Jonah  | Punkzahl wird am Schluss angezeigt         |     30 min    |
+|   4.a    |   08.11.22      |       Raul, Julian |  Random Wörter abfragen|   90 min       |
+|   4.b    |   08.11.22      |       Artur |  Richtige Eingabe erkennen |   40 min       |
+|   4.b    |   08.11.22      |       Artur |  Bei richtige Eingabe -> Wort nicht erneut abfragen |   40 min       |
+|   4.c    |   08.11.22      |       Jonah |  Falsche Eingabe erkennen |   40 min       |
+|   4.d    |   08.11.22      |       Jonah |  Bei falsche Eingabe -> Wort erneut abfragen |   40 min       |
+|5.a |   08.11.22|  Artur|Schwierigkeitsgrad einstellen |    60  min    |
+|5.b |   08.11.22|  Jonah| Liste von Wörtern machen|    30  min    |
+|5.c |   08.11.22|  Artur| Verschiedene Wörter für ausgewählte Schwierigkeit benutzen|    30  min    |
 |   6.a    |   08.11.22      |   Artur, Jonah     |    In Windows Forms-art Programmieren           |     120 min     |
-|   7.a    |   08.11.22      |    Julian    |    Speedrun-mode zu den Schwirigkeitsgraden hinzufügen           |    30  min    |
-|   7.b    | 08.11.22|Sven, Raul |Speedrun ist schwerste Schwierigkeit und wird auf Zeit gestoppt schnellstes Ergebnis wird ahngezeigt.|45 min   |
+|   7.a    |   08.11.22      |    Julian    |    Speedrun-mode machen         |    30  min    |
+|   7.b    |   08.11.22      |    Julian    |    Speedrun-mode als Stoppuhr machen         |    30  min    |
+|   7.c    |   08.11.22      |    Artur   |    Speedrun-mode als Schwierigkeit hinzufügen         |    15  min    |
+|   7.d   |   08.11.22      |    Sven |    Speedrun-mode zeigt bestes Ergebnis am Schluss|    30  min    |
+|   7.e    | 08.11.22|Sven, Raul |Speedrun als schwerste Schwierigkeit machen |45 min   |
+| Total: | | | |570 min   |
 
 
-Total:| | | |570 min|
+
 
 
 ## 3 Entscheiden
 
-Wir mussten uns entscheiden welch Funktionen wir einbauen und schauen ob man sie in der Theorie umsetzten kann sodass es keine Komplikationen geben wird. Bei der User Story haben wir die Nummer 6 Ausgelassen und andere
+Wir mussten uns entscheiden, welche Funktionen wir einbauen wollten und schauen, ob man sie in der Theorie umsetzen kann, sodass es keine Komplikationen geben würde. Bei der User Story haben wir die Nummer 6 Ausgelassen und andere
 
 ## 4 Realisieren
 
@@ -98,24 +112,19 @@ Wir mussten uns entscheiden welch Funktionen wir einbauen und schauen ob man sie
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |  15.11.22     |  Funktioniert, nächstes wort wird abgefragt.        |   Jonah     |
-| 1.2  |  15.11.22     |  Funktioniert, der minus punkt funktioniert nicht      | Jonah       |
-| 1.3  |  15.11.22     |   Funktioniert nicht Ausgabe ist Falsches Wort       |   Jonah     |
-| 2.1  |  15.11.22     |  Funktioniert        |   Jonah     |
-| 2.2  |  15.11.22     |   Funktioniert       |    Jonah    |
-| 2.3  |  15.11.22     |   Funktioniert       |    Jonah    |
-| 3.1  |  15.11.22     |   Funktioniert nicht       |  Jonah      |
-| 3.2  |  15.11.22     |   Funktioniert nicht       |   Jonah     |
-| 4.1  |  15.11.22     |   Funktioniert       |  Jonah      |
-| 5.1  |  15.11.22     |   Funktioniert       |   Jonah     |
-| 5.2  |  15.11.22     |   Funktioniert       |  Jonah      |
-| 5.3  |  15.11.22     |   Funktioniert nicht       |   Jonah     |
-| 7.1  |  15.11.22     |   Funktioniert nicht       |   Jonah     |
+| 1.1  |  15.11.22     |          |        |
+| 2.1  |  15.11.22     |          |        |
+| 3.1  |  15.11.22     |          |        |
+| 1.1  |  15.11.22     |          |        |
+| 1.1  |  15.11.22     |          |        |
+| 1.1  |  15.11.22     |          |        |
+| 1.1  |  15.11.22     |          |        |
 
+✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
 ## Fazit:
-Wie haben die kann Testfälle meist nicht gemacht weil wir Zeitdruck hatten.
+
 
 ## 6 Auswerten
 
-https://github.com/svenilol/LA1200/edit/main/Lern-Bericht
+✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
