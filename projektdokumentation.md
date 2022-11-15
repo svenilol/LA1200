@@ -128,7 +128,7 @@ Wir mussten uns entscheiden, welche Funktionen wir einbauen wollten und schauen,
 
 
 ## Fazit:
-Wie haben die kann Testfälle meist nicht gemacht weil wir Zeitdruck hatten.
+Generell ist das Programm nicht beendet, da wir ein Paar technische Probleme hatten.
 
 ## 6 Auswerten
 
