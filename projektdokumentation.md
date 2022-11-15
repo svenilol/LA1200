@@ -88,7 +88,7 @@ Unseres Vokabular-Abfrage-Programm soll auf verschiedene Fremdsprachen das Vokab
 
 ## 3 Entscheiden
 
-Wir mussten uns entscheiden, welche Funktionen wir einbauen wollten und schauen, ob man sie in der Theorie umsetzen kann, sodass es keine Komplikationen geben würde. Bei der User Story haben wir die Nummer 6 Ausgelassen und andere
+Wir mussten uns entscheiden, welche Funktionen wir einbauen wollten und schauen, ob man sie in der Theorie umsetzen kann, sodass es keine Komplikationen geben würde. Bei der User Story haben wir die Nummer 6 Ausgelassen und andere funktionale User Storys ausgelassen.
 
 ## 4 Realisieren
 
