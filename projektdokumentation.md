@@ -32,12 +32,19 @@ Unseres Vokabular-Abfrage-Programm soll auf verschiedene Fremdsprachen das Vokab
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |       Wörter die abgefragt werden       |    Richtiges Wort     |      Wort korrekt -> nächstes Wort             |
-| 2.1  |     Wählen welche Sprache         |     Deutsch->Englisch    |     Deutsch zu Englisch wird Abgefragt              |
-| 2.2 | Wähle welche Sprache | Englisch -> Deutsch | Englisch zu Deutsch wird Abgefragt |
-| 3.1  |      Alle Wörter fertig abgefragt        |   Punktzahl      |      Sie haben 30 von 45 richtig gelöst.             |
-| 4.1  |       Wort fertig eingegeben       |     Nächstes Wort    |       Nicht nochmal das Gleiche sondern ein anderes Random von der Liste            |
-| 5.1  |    Schwierigkeitsgrad eingeben          |   Leicht      |    Sie haben die leichten Wörter ausgewählt               |
-| 7.1  |   Sie wählen Schwierigkeit "Speedrun"          |   erstes Wort      |     Zeit die gemessen wird; Beste Zeit wird am Schluss angezeigt             |
+| 1.2  |       Wörter die abgefragt werden       |    Falsches Wort     |      Wort falsch -> nächstes Wort; Wort wird nicht mehr abgefragt und man bekommt Minuspunkte            |
+| 1.3  |       Wörter die abgefragt werden       |    Ungültige Eingabe     |      "Keine Nummern, nur Wörter!"             |
+| 2.1  |     Auswahl Sprache        |     Deutsch->Englisch    |     Deutsch zu Englisch wird Abgefragt              |
+| 2.2 | Auswahl Sprache | Englisch -> Deutsch | Englisch zu Deutsch wird Abgefragt |
+| 2.3 | Auswahl Sprache | Ungültige Eingabe | "Wähle aus welche Sprache du willst." |
+| 3.1  |      Alle Wörter fertig abgefragt        |   Punktzahl      |      "Sie haben 30 von 45 richtig gelöst."             |
+| 3.2  |      Alle Wörter fertig abgefragt        |   volle Punktzahl      |      "Sie haben 45 von 45 richtig gelöst. Wow!"            |
+| 4.1  |       Wort fertig eingegeben       |     Nächstes Wort    |       Nicht nochmal das Gleiche, sondern ein anderes Random von der Liste            |
+| 5.1  |    Schwierigkeitsgrad eingeben          |   Leicht      |    "Sie haben die leichten Wörter ausgewählt"               |
+| 5.2  |    Schwierigkeitsgrad eingeben          |   Schwer      |    "Sie haben die schweren Wörter ausgewählt"               |
+| 5.3  |    Schwierigkeitsgrad eingeben          |   Ungültige Eingabe      |    "Wählen Sie eine Schwierigkeit aus!"              |
+| 7.1  |   Schwierigkeitsgrad eingeben          |   Speedrun      |     Zeit die gemessen wird; Beste Zeit wird am Schluss angezeigt             |
+
 
 
 ### 1.4 Diagramme
@@ -54,12 +61,15 @@ Unseres Vokabular-Abfrage-Programm soll auf verschiedene Fremdsprachen das Vokab
 |   1.b    |   08.11.22      |     Raul |    Die Wörter abfragen, eingeben können   |   90 min |
 |   2.a    |   08.11.22      |     Julian   | Entscheiden De -> En oder En -> De              |    30 min      |
 |   3.a    |  08.11.22       |      Sven  | Punktzahl anzeigen lassen und Counter hinzufügen         |     45 min    |
+|   3.b    |  08.11.22       |     Jonah  | Punkzahl wird am Schluss angezeigt         |     30 min    |
 |   4.a    |   08.11.22      |       Raul, Julian |  Random Wörter abfragen wenn man sie richtig hatte nicht erneut abfragen             |   90 min       |
 |   5.a    |   08.11.22      |  Artur      |  Schwierigkeitsgrad einstellen und verschiedene Wörter für ausgewählte Schwierigkeit benutzen             |    90  min    |
 |   6.a    |   08.11.22      |   Artur, Jonah     |    In Windows Forms-art Programmieren           |     120 min     |
 |   7.a    |   08.11.22      |    Julian    |    Speedrun-mode zu den Schwirigkeitsgraden hinzufügen           |    30  min    |
-|   7.b    |   08.11.22      |     Sven, Raul   |   Speedrun ist schwerste Schwierigkeit und wird auf Zeit gestoppt schnellstes Ergebnis wird ahngezeigt.    |   45 min   |
-Total: 570 min
+|   7.b    | 08.11.22|Sven, Raul |Speedrun ist schwerste Schwierigkeit und wird auf Zeit gestoppt schnellstes Ergebnis wird ahngezeigt.|45 min   |
+
+
+Total:| | | |570 min|
 
 
 ## 3 Entscheiden
@@ -74,6 +84,7 @@ Wir mussten uns entscheiden welch Funktionen wir einbauen und schauen ob man sie
 | 1.B  |   1.11.22     |     Raul      |  90 min             |      180 min             |
 | 2.A  |  1.11.22      |         Julian  |   30 min            |         45 min          |
 | 3.A  |   1.11.22     |     Sven      |    45 min           |            30 min       |
+| 3.B  |   1.11.22     |     Jonah     |    30 min           |            30 min       |
 | 4.A  |  8.11.22      |         Raul, Julian  |    90 min           |            90 min       |
 | 5.A  |  8.11.22     | Artur          |     90 min          |           120 min        |
 | 6.A  |   8.11.22    |      Artur, Jonah     |     120 min          |             -     |
