@@ -4,7 +4,7 @@ Gruppe Beaver: Bächli Sven, Bytyqi Artur, Hitz Julian, Oesch Jonah, Gilardoni R
 
 ## Einleitung
 
-Wir haben ein Wörtli-Abfrageprogramm programmiert.
+Wir haben ein Programm programmiert mit denen Man seine englisch vokabel lernen kann und dabei vieles neues gelernt.
 
 ## Was haben wir gelernt?
 
