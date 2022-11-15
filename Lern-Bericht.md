@@ -17,10 +17,6 @@ wir haben gelernt wie man eine Textdatei in C# einlesen kann und den Inhalt verw
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
-
-![image](https://user-images.githubusercontent.com/110892330/201882816-9cda497a-f9a1-41db-9b0d-f4cbfa0dbe8d.png)
-
-
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
  
  
@@ -33,9 +29,11 @@ wir haben gelernt wie man eine Textdatei in C# einlesen kann und den Inhalt verw
 
 # Reflexion zum Arbeitsprozess
 
-Was gut lief ist, das Einlesen der Dateien und die Einzelnen Code-Fezten im Einzelnen.
+Was lief gut ?
+Das Einlesen der Dateien und die Einzelnen Code-Fezten im Einzelnen sind hut gegangen, nach der Theorie haben wird nicht lange für das gebraucht.
 
-Was schlecht gelauffen ist, dass wir nicht so gut komuniziert haben nur auf unser eigenn Code geschaut haben und beim zusammenfügen gab es dann ein paar probleme und 
+Was lief schlecht ?
+Wir haben nicht so gut komuniziert$, wir haben nur auf unser eigenen Code geschaut und beim zusammenfügen gab es dann ein paar Probleme und 
 die Planung hätten wir detailierter machen sollen.
 
-**VBV**: Wir müssen unser Code nach jedem Tag wider auf Github aufladen, sodass wir die technische Probleme aus dem Weg gehen können.
+**VBV**: Das nächste Mal sollten wir unseren Code nach jedem Tag auf Github hochladen, sodass wir die technische Probleme aus dem Weg gehen können.
