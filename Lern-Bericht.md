@@ -8,7 +8,7 @@ Wir haben ein Programm programmiert mit denen Man seine englisch vokabel lernen 
 
 ## Was haben wir gelernt?
 
-wir haben gelernt wie man eine Textdatei in C# einlesen kann und den Inhalt verwendet.
+Wir haben gelernt wie man eine Textdatei in C# einlesen und den Inhalt verwendet kann.
 
 ## Beschreibung
 
