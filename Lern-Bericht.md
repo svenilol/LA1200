@@ -18,6 +18,8 @@ wir haben gelernt wie man eine Textdatei in C# einlesen kann und den Inhalt verw
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+ 
+ 
  ![7y8nkgpz](https://user-images.githubusercontent.com/110893098/201880222-2d2d75f3-712a-4230-bb81-9b057eb8f3be.gif)
 
 
