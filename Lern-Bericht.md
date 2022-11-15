@@ -18,6 +18,7 @@ wir haben gelernt wie man eine Textdatei in C# einlesen kann und den Inhalt verw
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 
 ![image](https://user-images.githubusercontent.com/110892330/201883329-955c5e72-a0e1-4450-881a-91175f78890c.png)
+
 Bei diesem Beispiel sieht man wie zwei verschiedene Files eingelesn werden und das eine danach wider ausgegeben wird.
  
  
