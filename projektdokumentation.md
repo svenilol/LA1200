@@ -78,9 +78,9 @@ Unseres Vokabular-Abfrage-Programm soll auf verschiedene Fremdsprachen das Vokab
 |   7.a    |   08.11.22      |    Julian    |    Speedrun-mode machen         |    30  min    |
 |   7.b    |   08.11.22      |    Julian    |    Speedrun-mode als Stoppuhr machen         |    30  min    |
 |   7.c    |   08.11.22      |    Artur   |    Speedrun-mode als Schwierigkeit hinzufügen         |    15  min    |
-|   7.d   |   08.11.22      |    Sven |    Speedrun-mode zeigt bestes Ergebnis am Schluss|    30  min    |
-|   7.e    | 08.11.22|Sven, Raul |Speedrun als schwerste Schwierigkeit machen |45 min   |
-| Total: | | | |570 min   |
+|   7.d   |   08.11.22      |    Sven |    Speedrun-mode zeigt bestes Ergebnis am Schluss|    20  min    |
+|   7.e    | 08.11.22|Sven, Raul |Speedrun als schwerste Schwierigkeit machen |20 min   |
+| Total: | | | |900 min   |
 
 
 
