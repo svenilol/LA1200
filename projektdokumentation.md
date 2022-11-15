@@ -98,19 +98,24 @@ Wir mussten uns entscheiden welch Funktionen wir einbauen und schauen ob man sie
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |  15.11.22     |          |        |
-| 2.1  |  15.11.22     |          |        |
-| 3.1  |  15.11.22     |          |        |
-| 1.1  |  15.11.22     |          |        |
-| 1.1  |  15.11.22     |          |        |
-| 1.1  |  15.11.22     |          |        |
-| 1.1  |  15.11.22     |          |        |
+| 1.1  |  15.11.22     |  Funktionier, nächstes wort wird abgefragt.        |   Jonah     |
+| 1.2  |  15.11.22     |  Funktioniert, der minus punkt funktioniert nicht      | Jonah       |
+| 1.3  |  15.11.22     |   Funktioniert nicht Ausgabe ist Falsches Wort       |   Jonah     |
+| 2.1  |  15.11.22     |  Funktioniert        |   Jonah     |
+| 2.2  |  15.11.22     |   Funktioniert       |    Jonah    |
+| 2.3  |  15.11.22     |   Funktioniert       |    Jonah    |
+| 3.1  |  15.11.22     |   Funktioniert nicht       |  Jonah      |
+| 3.2  |  15.11.22     |   Funktioniert nciht       |   Jonah     |
+| 4.1  |  15.11.22     |   Funktioniert       |  Jonah      |
+| 5.1  |  15.11.22     |   Funktioniert       |   Jonah     |
+| 5.2  |  15.11.22     |   Funktioniert       |  Jonah      |
+| 5.3  |  15.11.22     |   Funktioniert nicht       |   Jonah     |
+| 7.1  |  15.11.22     |   Funktioniert nich       |   Jonah     |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
 ## Fazit:
-
+Wie haben die kann Testfälle meist nicht gemacht weil wir Zeitdruck hatten.
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+https://github.com/svenilol/LA1200/edit/main/Lern-Bericht
