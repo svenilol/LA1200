@@ -50,15 +50,15 @@ Unseres Vokabular-Abfrage-Programm soll auf verschiedene Fremdsprachen das Vokab
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-|   1.a    |     08.11.22    |    ?    |   Die Fremdsprache einsstellen können            |    30 min     |
-|   1.b    |   08.11.22      |        ?   |    Die Wörter Abfragen, eingebne können   |   90 min |
+|   1.a    |     08.11.22    |   Sven   |   Die Fremdsprache einsstellen können            |    30 min     |
+|   1.b    |   08.11.22      |      |    Die Wörter Abfragen, eingebne können   |   90 min |
 |   2.a    |   08.11.22      |     ?   | Entscheiden De -> En oder En -> De              |    30 min      |
 |   3.a    |  08.11.22       |      ?  | Punktzahl anzeigen lassen Counter hinzufügen         |     45 min    |
 |   4.a    |   08.11.22      |       ? |  Random Wörter abfragen wenn mann sie richtig ahtte nicht erneut abfragen             |   90 min       |
 |   5.a    |   08.11.22      |  ?      |  Schwirigkeitsgraad einstellar udn verschieden wörter für alle schwirigkeiten             |    90  min    |
 |   6.a    |   08.11.22      |   ?     |    In Windows Forms-art Programmieren           |     120 min     |
 |   7.a    |   08.11.22      |    ?    |    Speedrunn mode zu den Schwirigkeitsgraden hinzufügen           |    30  min    |
-|   7.b    |   08.11.22      |     ?   |   Speedrunn ist schwerste Schwirigkeit und wird auf Zeit gestoppt schnellstes ergebniss wird ahngezeigt.            |   45 min       |
+|   7.b    |   08.11.22      |     ?   |   Speedrunn ist schwerste Schwirigkeit und wird auf Zeit gestoppt schnellstes ergebniss wird ahngezeigt.    |   45 min   |
 Total: 
 
 
