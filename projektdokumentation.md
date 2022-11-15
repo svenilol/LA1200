@@ -70,15 +70,15 @@ Wir mussten uns entscheiden welch Funktionen wir einbauen und schauen ob man sie
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |   1.11.22    |           |       30 min         |      60 min        |
-| 1.B  |   1.11.22     |           |  90 min             |      180 min             |
-| 2.A  |  1.11.22      |           |   30 min            |         45 min          |
-| 3.A  |   1.11.22     |           |    45 min           |            30 min       |
-| 4.A  |  8.11.22      |           |    90 min           |            90 min       |
-| 5.A  |  8.11.22     |           |     90 min          |           120 min        |
-| 6.A  |   8.11.22    |           |     120 min          |             -     |
-| 7.A  |  8.11.22     |           |      30 min         |               -    |
-| 7.B  | 8.11.22      |           |       45 min        |                -   |
+| 1.A  |   1.11.22    |  Sven    |       30 min         |      60 min        |
+| 1.B  |   1.11.22     |     Raul      |  90 min             |      180 min             |
+| 2.A  |  1.11.22      |         Julian  |   30 min            |         45 min          |
+| 3.A  |   1.11.22     |     Sven      |    45 min           |            30 min       |
+| 4.A  |  8.11.22      |         Raul, Julian  |    90 min           |            90 min       |
+| 5.A  |  8.11.22     | Artur          |     90 min          |           120 min        |
+| 6.A  |   8.11.22    |      Artur, Jonah     |     120 min          |             -     |
+| 7.A  |  8.11.22     |    Julian       |      30 min         |               -    |
+| 7.B  | 8.11.22      |          Sven, Raul |       45 min        |                -   |
 
 
 ## 5 Kontrollieren
