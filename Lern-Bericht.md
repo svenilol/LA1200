@@ -29,10 +29,10 @@ wir haben gelernt wie man eine Textdatei in C# einlesen kann und den Inhalt verw
 
 # Reflexion zum Arbeitsprozess
 
-Was lief gut ?
+Das lief gut :
 Das Einlesen der Dateien und die Einzelnen Code-Fezten im Einzelnen sind hut gegangen, nach der Theorie haben wird nicht lange für das gebraucht.
 
-Was lief schlecht ?
+Das lief schlecht :
 Wir haben nicht so gut komuniziert$, wir haben nur auf unser eigenen Code geschaut und beim zusammenfügen gab es dann ein paar Probleme und 
 die Planung hätten wir detailierter machen sollen.
 
