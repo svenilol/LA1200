@@ -12,16 +12,14 @@ wir haben gelernt wie man eine Textdatei in C# einlesen kann und den Inhalt verw
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* 
+
+
 Bei diesem Beispiel sieht man wie zwei verschiedene Files eingelesn werden und das eine danach wider ausgegeben wird.
 
 ![image](https://user-images.githubusercontent.com/110892330/201883329-955c5e72-a0e1-4450-881a-91175f78890c.png)
  
- ![7y8nkgpz](https://user-images.githubusercontent.com/110893098/201880222-2d2d75f3-712a-4230-bb81-9b057eb8f3be.gif)
+![7y8nkgpz](https://user-images.githubusercontent.com/110893098/201880222-2d2d75f3-712a-4230-bb81-9b057eb8f3be.gif)
 
 
 ## Verifikation
