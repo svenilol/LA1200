@@ -4,7 +4,7 @@ Gruppe Beaver: Bächli Sven, Bytyqi Artur, Hitz Julian, Oesch Jonah, Gilardoni R
 
 ## Einleitung
 
-Wir haben ein Programm programmiert mit denen Man seine englisch vokabel lernen kann und dabei vieles neues gelernt.
+Wir haben ein Programm programmiert mit denen man seine englisch Vokabel lernen kann und dabei vieles neues lernt.
 
 ## Was haben wir gelernt?
 
