@@ -25,7 +25,7 @@ wir haben gelernt wie man eine Textdatei in C# einlesen kann und den Inhalt verw
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+.
 
 # Reflexion zum Arbeitsprozess
 
