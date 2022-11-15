@@ -17,6 +17,10 @@ wir haben gelernt wie man eine Textdatei in C# einlesen kann und den Inhalt verw
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
+
+![image](https://user-images.githubusercontent.com/110892330/201882816-9cda497a-f9a1-41db-9b0d-f4cbfa0dbe8d.png)
+
+
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
  
  
