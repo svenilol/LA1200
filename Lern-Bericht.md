@@ -26,8 +26,11 @@ Das Einlesen einer Datei wird benötigt, um in einem Programm einen Inhalt einer
 
 
 ## Verifikation
+*Codefetzen*: Bei dem Codefetzen wird gezeigt wie so ein Code aussehen kann, die soll beim verständniss helfen.
 
-.
+*Gif*: Bei dem Gif soll dargestellt werden dass man eine txt datei in dem Code einfügt.
+
+*Text*: Der text soll beim verständniss des Codes helfen und den sinn erläutern.
 
 # Reflexion zum Arbeitsprozess
 
