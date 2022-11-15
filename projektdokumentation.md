@@ -132,4 +132,4 @@ Generell ist das Programm nicht beendet, da wir ein Paar technische Probleme hat
 
 ## 6 Auswerten
 
-https://github.com/svenilol/LA1200/edit/main/Lern-Bericht
+https://github.com/svenilol/LA1200/blob/main/Lern-Bericht.md
