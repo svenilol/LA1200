@@ -16,8 +16,9 @@ wir haben gelernt wie man eine Textdatei in C# einlesen kann und den Inhalt verw
 
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+
+![image](https://user-images.githubusercontent.com/110892330/201883329-955c5e72-a0e1-4450-881a-91175f78890c.png)
+Bei diesem Beispiel sieht man wie zwei verschiedene Files eingelesn werden und das eine danach wider ausgegeben wird.
  
  
  ![7y8nkgpz](https://user-images.githubusercontent.com/110893098/201880222-2d2d75f3-712a-4230-bb81-9b057eb8f3be.gif)
@@ -29,10 +30,10 @@ wir haben gelernt wie man eine Textdatei in C# einlesen kann und den Inhalt verw
 
 # Reflexion zum Arbeitsprozess
 
-Das lief gut :
+Was lief gut ?
 Das Einlesen der Dateien und die Einzelnen Code-Fezten im Einzelnen sind hut gegangen, nach der Theorie haben wird nicht lange für das gebraucht.
 
-Das lief schlecht :
+Was lief schlecht ?
 Wir haben nicht so gut komuniziert$, wir haben nur auf unser eigenen Code geschaut und beim zusammenfügen gab es dann ein paar Probleme und 
 die Planung hätten wir detailierter machen sollen.
 
