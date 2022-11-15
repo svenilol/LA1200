@@ -4,11 +4,11 @@ Gruppe Beaver: Bächli Sven, Bytyqi Artur, Hitz Julian, Oesch Jonah, Gilardoni R
 
 ## Einleitung
 
-Ein Programm, dem man eine Liste einlesen kann und dann diese Liste zum lerne benutzen kann.
+Ein Wörtli-Abfrageprogramm das die Wörter abfragt.
 
-## Was habe ich gelernt?
+## Was haben wir gelernt?
 
-Ich habe gelernt wie man eine Datei einlesen kann, Wie man die Wörter dann auch von der Liste benutzen kann.
+Wir haben gelernt wie man eine Text datei erstellen kann und wie man diese in C# einlesen und den Inhalt benutzen kann.
 
 ## Beschreibung
 
@@ -25,8 +25,8 @@ Ich habe gelernt wie man eine Datei einlesen kann, Wie man die Wörter dann auch
 
 # Reflexion zum Arbeitsprozess
 
-Da wir zu Hause gearbeitet haben, habne wir uns
+Was gut lief ist, dass wir beim Online-Untericht
 
-Unsere Planung ist nicht so detailiert gewesen und wir hatten ein paar technische Probleme.
+Was Schlecht gelauffen ist
 
-**VBV**: Wier müssen genauer planen und dann die Aufteilung genau Einteilen
+**VBV**: Wir müssen unser Code nach jedem Tag wider auf Github aufladen.
