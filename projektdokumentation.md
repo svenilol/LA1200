@@ -65,7 +65,7 @@ Total:
 
 ## 3 Entscheiden
 
-Wir mussten uns entscheiden welch Funktionen wir einbauen und schauen ob man sie in der Theorie umsetzten kann sodass es keine Komplikationen geben wird.
+Wir mussten uns entscheiden welch Funktionen wir einbauen und schauen ob man sie in der Theorie umsetzten kann sodass es keine Komplikationen geben wird. Bei der User Story haben wir die Nummer 6 Ausgelassen und andere
 
 ## 4 Realisieren
 
