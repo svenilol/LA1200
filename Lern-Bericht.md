@@ -4,17 +4,17 @@ Gruppe Beaver: Bächli Sven, Bytyqi Artur, Hitz Julian, Oesch Jonah, Gilardoni R
 
 ## Einleitung
 
-Wir haben ein Programm programmiert mit dem man seine englisch Vokabeln lernen kann und dabei vieles neues lernt.
+Wir haben ein Programm programmiert, mit dem man seine englisch Vokabeln lernen kann und dabei vieles neues lernt.
 
 ## Was haben wir gelernt?
 
-wir haben gelernt wie man eine Textdatei in C# einlesen kann und den Inhalt verwendet.
+Wir haben gelernt, wie man eine Textdatei in C# einlesen kann und den Inhalt verwendet.
 
 ## Beschreibung
 
-Ein Grund warum man Files einlesen will ist, damit man Listen einfacher ergänzen kann. Man kann jederzeit einfach ins Dokument gehen und die Liste verändern. Ein anderer Vorteil ist, dass der Code übersichtlicher wird, weil man nicht hunderte Wörter im Code stehen hat.
+Ein Grund, warum man Files einlesen will ist, damit man Listen einfacher ergänzen kann. Man kann jederzeit einfach ins Dokument gehen und die Liste verändern. Ein anderer Vorteil ist, dass der Code übersichtlicher wird, weil man nicht hunderte Wörter im Code stehen hat.
 
-Bei diesem Beispiel sieht man wie zwei verschiedene Files eingelesn werden und das eine danach wider ausgegeben wird.
+Bei diesem Beispiel sieht man wie zwei verschiedene Files eingelesen werden und das eine danach wieder ausgegeben wird.
 
 ![image](https://user-images.githubusercontent.com/110892330/201883329-955c5e72-a0e1-4450-881a-91175f78890c.png)
  
@@ -35,10 +35,10 @@ Das Einlesen einer Datei wird benötigt, um in einem Programm einen Inhalt einer
 # Reflexion zum Arbeitsprozess
 
 Was lief gut ?
-Das Einlesen der Dateien und die Einzelnen Code-Fezten im Einzelnen sind hut gegangen, nach der Theorie haben wird nicht lange für das gebraucht.
+Das Einlesen der Dateien und die Einzelnen Code-Fetzen im Einzelnen sind gut gegangen, nach der Theorie haben wird nicht lange für das gebraucht.
 
 Was lief schlecht ?
-Wir haben nicht so gut komuniziert$, wir haben nur auf unser eigenen Code geschaut und beim zusammenfügen gab es dann ein paar Probleme und 
-die Planung hätten wir detailierter machen sollen.
+Wir haben nicht so gut kommuniziert, wir haben nur auf unser eigenen Code geschaut und beim zusammenfügen gab es dann ein paar Probleme und 
+die Planung hätten wir detaillierter machen sollen.
 
 **VBV**: Das nächste Mal sollten wir unseren Code nach jedem Tag auf Github hochladen, sodass wir die technische Probleme aus dem Weg gehen können.
