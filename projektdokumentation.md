@@ -92,19 +92,18 @@ Wir mussten uns entscheiden welch Funktionen wir einbauen und schauen ob man sie
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |  15.11.22     |          |        |
+| 2.1  |  15.11.22     |          |        |
+| 3.1  |  15.11.22     |          |        |
+| 1.1  |  15.11.22     |          |        |
+| 1.1  |  15.11.22     |          |        |
+| 1.1  |  15.11.22     |          |        |
+| 1.1  |  15.11.22     |          |        |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-### 5.2 Exploratives Testen
+## Fazit:
 
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
