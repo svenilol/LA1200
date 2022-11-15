@@ -20,6 +20,8 @@ Bei diesem Beispiel sieht man wie zwei verschiedene Files eingelesn werden und d
  
 ![7y8nkgpz](https://user-images.githubusercontent.com/110893098/201880222-2d2d75f3-712a-4230-bb81-9b057eb8f3be.gif)
 
+Das Einlesen einer Datei wird benötigt, um in einem Programm einen Inhalt einer Datei in C# zu verwenden. Durch das kann man beliebig viele Listen vom Computer verwenden und in C# benutzen, welches einem vieles leichter macht, da man so nicht die ganze Liste als Code schreiben muss. Ausserdem kann man auch mehrere Listen einlesen für verschiedene Sachen wie Sprachen, Fächer etc. für vergleiche oder Abfrageprogramme.
+
 
 ## Verifikation
 
