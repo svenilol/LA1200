@@ -7,6 +7,7 @@ Gruppe Beaver: Bächli Sven, Bytyqi Artur, Hitz Julian, Oesch Jonah, Gilardoni R
 |    25.10.2022   | 0.1   | Gruppenleiter entschieden und Projektdokumentation bearbeitet |
 |   01.11.2022    | 0.2   |    Erstes Programmieren und weiter an der Projektdokumentation arbeiten.          |
 |  08.11.2022     | 0.3   |   Projektdokumentation fertigstellen, Code fertigstellen und Testen      |
+| 15.11.2022 | 1.0.0 | Kontrollieren, Testprotokol fertigstellen und Projekt Abschliessen |
 
 ## 1 Informieren
 
