@@ -8,12 +8,11 @@ Wir haben ein Programm programmiert mit denen Man seine englisch vokabel lernen 
 
 ## Was haben wir gelernt?
 
-Wir haben gelernt wie man eine Textdatei in C# einlesen und den Inhalt verwendet kann.
+wir haben gelernt wie man eine Textdatei in C# einlesen kann und den Inhalt verwendet.
 
 ## Beschreibung
 
-
-
+Ein Grund warum man Files einlesen will istt, damit man Listen einfacher ergänzen kann. Man kann jederzeit einfach ins dokument gehen und die Liste verändern. Ein anderer Vorteil ist, dass der Code übersichtlicher wird, weil man nicht hunderte Wörter im Code stehen hat.
 
 Bei diesem Beispiel sieht man wie zwei verschiedene Files eingelesn werden und das eine danach wider ausgegeben wird.
 
