@@ -98,19 +98,19 @@ Wir mussten uns entscheiden welch Funktionen wir einbauen und schauen ob man sie
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |  15.11.22     |  Funktionier, nächstes wort wird abgefragt.        |   Jonah     |
+| 1.1  |  15.11.22     |  Funktioniert, nächstes wort wird abgefragt.        |   Jonah     |
 | 1.2  |  15.11.22     |  Funktioniert, der minus punkt funktioniert nicht      | Jonah       |
 | 1.3  |  15.11.22     |   Funktioniert nicht Ausgabe ist Falsches Wort       |   Jonah     |
 | 2.1  |  15.11.22     |  Funktioniert        |   Jonah     |
 | 2.2  |  15.11.22     |   Funktioniert       |    Jonah    |
 | 2.3  |  15.11.22     |   Funktioniert       |    Jonah    |
 | 3.1  |  15.11.22     |   Funktioniert nicht       |  Jonah      |
-| 3.2  |  15.11.22     |   Funktioniert nciht       |   Jonah     |
+| 3.2  |  15.11.22     |   Funktioniert nicht       |   Jonah     |
 | 4.1  |  15.11.22     |   Funktioniert       |  Jonah      |
 | 5.1  |  15.11.22     |   Funktioniert       |   Jonah     |
 | 5.2  |  15.11.22     |   Funktioniert       |  Jonah      |
 | 5.3  |  15.11.22     |   Funktioniert nicht       |   Jonah     |
-| 7.1  |  15.11.22     |   Funktioniert nich       |   Jonah     |
+| 7.1  |  15.11.22     |   Funktioniert nicht       |   Jonah     |
 
 
 ## Fazit:
