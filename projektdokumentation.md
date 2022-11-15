@@ -43,7 +43,8 @@ Unseres Vokabular-Abfrage-Programm soll auf verschiedene Fremdsprachen das Vokab
 
 ### 1.4 Diagramme
 
-![Hauptprogramm](https://user-images.githubusercontent.com/110893098/201853449-d4f06c65-5944-4d70-a882-5a8a671a9a05.png)
+![Hauptprogramm](https://user-images.githubusercontent.com/110893098/201853639-c8947ed1-d646-40d7-92c7-f84a7357b33b.png)
+
 
 
 ## 2 Planen
