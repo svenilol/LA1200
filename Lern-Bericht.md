@@ -26,19 +26,19 @@ Das Einlesen einer Datei wird benötigt, um in einem Programm einen Inhalt einer
 
 
 ## Verifikation
-*Codefetzen*: Bei dem Codefetzen wird gezeigt wie so ein Code aussehen kann, die soll beim verständniss helfen.
+*Codefetzen*: Bei dem Codefetzen wird gezeigt wie so ein Code aussehen kann. Dies soll beim Verständnis helfen.
 
-*Gif*: Bei dem Gif soll dargestellt werden dass man eine txt datei in dem Code einfügt.
+*Gif*: Bei dem GIF soll dargestellt werden, dass man eine Textdatei in dem Code einfügt.
 
-*Text*: Der text soll beim verständniss des Codes helfen und den sinn erläutern.
+*Text*: Der Text soll auch beim Verständnis des Codes helfen und den Sinn erläutern.
 
 # Reflexion zum Arbeitsprozess
 
 Was lief gut ?
-Das Einlesen der Dateien und die Einzelnen Code-Fetzen im Einzelnen sind gut gegangen, nach der Theorie haben wird nicht lange für das gebraucht.
+Das Einlesen der Dateien und die Einzelnen Code-Fezten im Einzelnen sind gut gegangen, nach der Theorie haben wir nicht lange gebraucht.
 
 Was lief schlecht ?
-Wir haben nicht so gut kommuniziert, wir haben nur auf unser eigenen Code geschaut und beim zusammenfügen gab es dann ein paar Probleme und 
+Wir haben nicht so gut kommuniziert. Wir haben nur auf unseren eigenen Code geschaut und beim zusammenfügen gab es dann ein paar Probleme und 
 die Planung hätten wir detaillierter machen sollen.
 
-**VBV**: Das nächste Mal sollten wir unseren Code nach jedem Tag auf Github hochladen, sodass wir die technische Probleme aus dem Weg gehen können.
+**VBV**: Das nächste Mal sollten wir unseren Code nach jedem Tag auf GitHub hochladen, sodass wir die technische Probleme aus dem Weg gehen können.
